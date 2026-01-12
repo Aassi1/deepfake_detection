@@ -1,0 +1,34 @@
+# Data (too large)
+data/videos/
+data/faces/
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environment
+deepfake_env/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+feedback_log.csv
+test_*.mp4
+demo_*.mp4
