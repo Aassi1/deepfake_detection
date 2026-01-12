@@ -1,13 +1,5 @@
 Assi Assi
 
-## Development Timeline Note
-
-Due to personal circumstances, I started this project on November 22
-rather than November 1 as originally planned. The compressed timeline
-required intensive daily work (6-8 hours/day) to complete all components.
-
-My commit history reflects the actual development timeline.
-
 # Deepfake Detection System
 
 A CNN-based deepfake video detector built for COMP 3106 (Intro to AI) at Carleton University.
